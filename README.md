@@ -7,7 +7,7 @@ The paper we're replicating (the source of the dataset we'll be using) is avaiab
 And reading through the paper above, we see that the model architecture that they use to achieve their best results is available here [Neural networks for joint sentence classification in medical paper abstracts.](https://arxiv.org/pdf/1612.05251.pdf)
 
 
-<a href="https://github.com/g-tejas/SkimLit">
+<a href="https://github.com/SeanMiranda/SkimLit">
   <img src="img/skmit overview.png" alt="Logo" width="430" height="100">
 </a>
 
