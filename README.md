@@ -1,4 +1,4 @@
-# SkimLit
+<h1 align='center'>SkimLit</h1>
 
 The purpose of this notebook is to build an NLP model to make reading medical abstracts easier.
 
