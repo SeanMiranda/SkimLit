@@ -6,4 +6,15 @@ The paper we're replicating (the source of the dataset we'll be using) is avaiab
 
 And reading through the paper above, we see that the model architecture that they use to achieve their best results is available here [Neural networks for joint sentence classification in medical paper abstracts.](https://arxiv.org/pdf/1612.05251.pdf)
 
-If you want to find the ground truth for this notebook (with lots of diagrams and text annotations) see the GitHub: https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/09_SkimLit_nlp_milestone_project_2.ipynb
+
+<a href="https://github.com/g-tejas/SkimLit">
+  <img src="img/skmit overview.png" alt="Logo" width="430" height="100">
+</a>
+
+## Acknowledgements
+* [TFHub Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
+* [PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts
+](https://arxiv.org/abs/1710.06071)
+* [Neural Networks for Joint Sentence Classification
+in Medical Paper Abstracts](https://arxiv.org/pdf/1612.05251.pdf)
+* [Daniel Bourke's version](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/09_SkimLit_nlp_milestone_project_2.ipynb)
